@@ -7,18 +7,6 @@
 
 ---
 
-## Paper Reading Workflow Summary
-
-> *Use this guide to structure your reading approach.*
-
-1. **Read the Abstract** – understand the **problem**, **contribution**, and **effectiveness**.  
-2. **Look at the Experiments** – focus on **figures**, **tables**, and whether the paper is reproducible.  
-3. **Go through Introduction** – understand **why** the authors pursued this and their **line of reasoning**.  
-4. **Study the Methods/Approach** (especially if planning to reproduce). Start with **Python implementation** before getting stuck in derivations.  
-5. **Review Related Work** – use **survey papers** + related work sections to understand the field.
-
----
-
 ## | Section | Content | Notes |
 |----------|---------|-------|
 | **Introduction** | - [Summarize the background, motivation, and the problem addressed.]  <br> - [Why is this problem important?] | - [Define key concepts or terms if any, e.g., specific diseases or technologies.] |
