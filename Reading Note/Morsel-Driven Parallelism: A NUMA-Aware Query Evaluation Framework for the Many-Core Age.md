@@ -13,6 +13,7 @@
 ## 
 | Section | Content | Notes |
 |----------|---------|-------|
+|**Abstract**|||
 | **Introduction** | - [Summarize the background, motivation, and the problem addressed.]  <br> - [Why is this problem important?] | - [Define key concepts or terms if any, e.g., specific diseases or technologies.] |
 | **Method** | - [Describe methodology: data sources, tools, models used.]  <br> - [What algorithm or approach did they propose?]  <br> - [Include diagrams or pseudocode if needed.] | - [Add useful links (e.g., to Lasso, CNNs, etc.) or explain terms.] |
 | **Results & Discussion** | - [Summarize main experimental results.]  <br> - [Discuss key figures or tables.]  <br> - [Is the improvement significant? Any limitations?] | - [Paste important figure thumbnails here if needed.] |
