@@ -11,14 +11,15 @@
 ---
 
 ## 
-| Section | Content | Notes |
-|----------|---------|-------|
-|**Abstract**|||
-| **Introduction** | - [Summarize the background, motivation, and the problem addressed.]  <br> - [Why is this problem important?] | - [Define key concepts or terms if any, e.g., specific diseases or technologies.] |
-| **Method** | - [Describe methodology: data sources, tools, models used.]  <br> - [What algorithm or approach did they propose?]  <br> - [Include diagrams or pseudocode if needed.] | - [Add useful links (e.g., to Lasso, CNNs, etc.) or explain terms.] |
-| **Results & Discussion** | - [Summarize main experimental results.]  <br> - [Discuss key figures or tables.]  <br> - [Is the improvement significant? Any limitations?] | - [Paste important figure thumbnails here if needed.] |
-| **Conclusion** | - [Summarize final takeaways.] <br> - [How does this contribute to the field?] <br> - [Any suggestions for future work from the authors?] | - [What can you personally take away from this paper?] |
-| **Supplementary Notes** | - [Any methods NOT used? (e.g., no random forest/deep learning?)] <br> - [What would you improve or try differently?] <br> - [Any thoughts about implementation feasibility?] | - [Your own ideas or applications.] |
+| Section                  | Content                                                                                                                                                                       | Notes                                                                                                                                                               |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Abstract**             | - Two problems conspire against the state-of-art approaches in parallel query execution. <br> - Present the *morsel-driven* query execution framework.                        | - Morsel driven: small fragemnets of input data("morsels") <br> - Adjust resources *dynamically* <br> -The plan can *elastically change during the query execution* |
+| **Evaluation**           |||
+| **Introduction**         | - [Summarize the background, motivation, and the problem addressed.]  <br> - [Why is this problem important?]                                                                 | - [Define key concepts or terms if any, e.g., specific diseases or technologies.]                                                                                   |
+| **Method**               | - [Describe methodology: data sources, tools, models used.]  <br> - [What algorithm or approach did they propose?]  <br> - [Include diagrams or pseudocode if needed.]        | - [Add useful links (e.g., to Lasso, CNNs, etc.) or explain terms.]                                                                                                 |
+| **Results & Discussion** | - [Summarize main experimental results.]  <br> - [Discuss key figures or tables.]  <br> - [Is the improvement significant? Any limitations?]                                  | - [Paste important figure thumbnails here if needed.]                                                                                                               |
+| **Conclusion**           | - [Summarize final takeaways.] <br> - [How does this contribute to the field?] <br> - [Any suggestions for future work from the authors?]                                     | - [What can you personally take away from this paper?]                                                                                                              |
+| **Supplementary Notes**  | - [Any methods NOT used? (e.g., no random forest/deep learning?)] <br> - [What would you improve or try differently?] <br> - [Any thoughts about implementation feasibility?] | - [Your own ideas or applications.]                                                                                                                                 |
 
 ---
 
