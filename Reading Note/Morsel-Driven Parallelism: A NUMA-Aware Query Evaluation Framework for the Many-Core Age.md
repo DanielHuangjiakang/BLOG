@@ -6,7 +6,7 @@
 
 **DOI / URL:** https://15721.courses.cs.cmu.edu/spring2016/papers/p743-leis.pdf   
 
-**Field:** Distributed database
+**Field:** Distributed Database
 
 ---
 
