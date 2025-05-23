@@ -1,7 +1,11 @@
-# Paper Title: Morsel-Driven Parallelism: A NUMA-Aware Query Evaluation Framework for the Many-Core Age  
-**Author(s):** Viktor Leis  
+# Paper Title: Morsel-Driven Parallelism: A NUMA-Aware Query Evaluation Framework for the Many-Core Age 
+
+**Author(s):** Viktor Leis
+
 **Institution:** Technische Universität München 
-**DOI / URL:** https://15721.courses.cs.cmu.edu/spring2016/papers/p743-leis.pdf    
+
+**DOI / URL:** https://15721.courses.cs.cmu.edu/spring2016/papers/p743-leis.pdf   
+
 **Field:** Distributed database
 
 ---
