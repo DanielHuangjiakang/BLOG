@@ -1,4 +1,4 @@
-# Paper Title: *[Fill in paper title here]*  
+# Paper Title: [Fill in paper title here]  
 **Author(s):** [Fill in author names]  
 **Institution:** [Institution]  
 **DOI / URL:** [Link]  
